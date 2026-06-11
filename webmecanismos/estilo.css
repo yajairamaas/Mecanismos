@@ -1,0 +1,12 @@
+h1 {
+  font-family: Arial Black;
+  font-size: 1.5em;
+  color: #8a2e8a;
+  text-align: center;
+}
+body {
+  background-color: #ffff99;
+}
+a:hover {
+  color: #33cc00;
+}
